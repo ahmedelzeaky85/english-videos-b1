@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 5,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day05-line001.mp3",
+   "sentence_id": "b1-day05-s01",
+   "en": "I have been trying to eat healthier since last month, but it is hard to give up sweets.",
+   "bytes": 52992
+  },
+  {
+   "line": 2,
+   "file": "day05-line002.mp3",
+   "sentence_id": "b1-day05-s02",
+   "en": "You should get at least seven hours of sleep, otherwise it is difficult to concentrate during the day.",
+   "bytes": 52224
+  },
+  {
+   "line": 3,
+   "file": "day05-line003.mp3",
+   "sentence_id": "b1-day05-s03",
+   "en": "Sitting all day at a desk is bad for your back, so stand up and stretch every hour.",
+   "bytes": 55488
+  },
+  {
+   "line": 4,
+   "file": "day05-line004.mp3",
+   "sentence_id": "b1-day05-s04",
+   "en": "I used to drink a lot of soda, but I stopped last year, and now I feel more energetic.",
+   "bytes": 49728
+  },
+  {
+   "line": 5,
+   "file": "day05-line005.mp3",
+   "sentence_id": "b1-day05-s05",
+   "en": "The doctor advised him to cut down on sugar and salt, and to walk every day.",
+   "bytes": 51072
+  },
+  {
+   "line": 6,
+   "file": "day05-line006.mp3",
+   "sentence_id": "b1-day05-s06",
+   "en": "Regular exercise reduces stress and improves your mood, which is why many doctors recommend it.",
+   "bytes": 56448
+  },
+  {
+   "line": 7,
+   "file": "day05-line007.mp3",
+   "sentence_id": "b1-day05-s07",
+   "en": "It is easier to stay motivated when you exercise with a friend, because you do not want to let them down.",
+   "bytes": 56448
+  },
+  {
+   "line": 8,
+   "file": "day05-line008.mp3",
+   "sentence_id": "b1-day05-s08",
+   "en": "She is allergic to peanuts, so she has to read every label before she buys anything.",
+   "bytes": 50112
+  },
+  {
+   "line": 9,
+   "file": "day05-line009.mp3",
+   "sentence_id": "b1-day05-s09",
+   "en": "Taking a short walk after dinner helps digestion, and it also clears your mind after a long day.",
+   "bytes": 57792
+  },
+  {
+   "line": 10,
+   "file": "day05-line010.mp3",
+   "sentence_id": "b1-day05-s10",
+   "en": "A balanced lifestyle is more important than a strict diet, because you can keep it up for years.",
+   "bytes": 55872
+  }
+ ]
+}
