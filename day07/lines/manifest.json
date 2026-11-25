@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 7,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day07-line001.mp3",
+   "sentence_id": "b1-day07-s01",
+   "en": "I studied engineering at university, although I have always been more interested in teaching.",
+   "bytes": 52992
+  },
+  {
+   "line": 2,
+   "file": "day07-line002.mp3",
+   "sentence_id": "b1-day07-s02",
+   "en": "Learning a new language takes time, but it becomes easier once you start using it every day.",
+   "bytes": 58560
+  },
+  {
+   "line": 3,
+   "file": "day07-line003.mp3",
+   "sentence_id": "b1-day07-s03",
+   "en": "She passed the exam because she studied a little every day instead of waiting until the last week.",
+   "bytes": 57792
+  },
+  {
+   "line": 4,
+   "file": "day07-line004.mp3",
+   "sentence_id": "b1-day07-s04",
+   "en": "In my opinion, practical skills are just as important as a university degree when you look for a job.",
+   "bytes": 55680
+  },
+  {
+   "line": 5,
+   "file": "day07-line005.mp3",
+   "sentence_id": "b1-day07-s05",
+   "en": "The teacher explained the lesson twice, so even the students who were confused finally understood.",
+   "bytes": 62016
+  },
+  {
+   "line": 6,
+   "file": "day07-line006.mp3",
+   "sentence_id": "b1-day07-s06",
+   "en": "If I had more free time, I would take a course in graphic design and start working online.",
+   "bytes": 52608
+  },
+  {
+   "line": 7,
+   "file": "day07-line007.mp3",
+   "sentence_id": "b1-day07-s07",
+   "en": "Many young people struggle to find a job because employers usually ask for experience they do not have.",
+   "bytes": 63360
+  },
+  {
+   "line": 8,
+   "file": "day07-line008.mp3",
+   "sentence_id": "b1-day07-s08",
+   "en": "Reading books regularly improves your vocabulary and helps you express your ideas more clearly.",
+   "bytes": 55104
+  },
+  {
+   "line": 9,
+   "file": "day07-line009.mp3",
+   "sentence_id": "b1-day07-s09",
+   "en": "He was nervous about the interview, but he had practiced his answers so many times that he felt confident.",
+   "bytes": 60288
+  },
+  {
+   "line": 10,
+   "file": "day07-line010.mp3",
+   "sentence_id": "b1-day07-s10",
+   "en": "Whether you learn at school or by yourself, the most important thing is to stay curious and keep going.",
+   "bytes": 60096
+  }
+ ]
+}
