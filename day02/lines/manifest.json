@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 2,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day02-line001.mp3",
+   "sentence_id": "b1-day02-s01",
+   "en": "My younger brother is tall and slim, with short dark hair, and he dresses very smartly.",
+   "bytes": 58368
+  },
+  {
+   "line": 2,
+   "file": "day02-line002.mp3",
+   "sentence_id": "b1-day02-s02",
+   "en": "She is the kind of person who always helps others, even when she is very busy.",
+   "bytes": 50304
+  },
+  {
+   "line": 3,
+   "file": "day02-line003.mp3",
+   "sentence_id": "b1-day02-s03",
+   "en": "He seems shy at first, but once you get to know him, he turns out to be very funny.",
+   "bytes": 50112
+  },
+  {
+   "line": 4,
+   "file": "day02-line004.mp3",
+   "sentence_id": "b1-day02-s04",
+   "en": "My manager is strict about deadlines, but I respect her because she is fair with everyone.",
+   "bytes": 53952
+  },
+  {
+   "line": 5,
+   "file": "day02-line005.mp3",
+   "sentence_id": "b1-day02-s05",
+   "en": "They look so alike that people often think they are twins, although they are three years apart.",
+   "bytes": 54144
+  },
+  {
+   "line": 6,
+   "file": "day02-line006.mp3",
+   "sentence_id": "b1-day02-s06",
+   "en": "He is old enough to take care of himself, but his parents still worry about him.",
+   "bytes": 47808
+  },
+  {
+   "line": 7,
+   "file": "day02-line007.mp3",
+   "sentence_id": "b1-day02-s07",
+   "en": "I admire people who stay calm in difficult situations and never blame others for their mistakes.",
+   "bytes": 52992
+  },
+  {
+   "line": 8,
+   "file": "day02-line008.mp3",
+   "sentence_id": "b1-day02-s08",
+   "en": "Her sense of humor makes everyone feel comfortable, which is why she has so many friends.",
+   "bytes": 46464
+  },
+  {
+   "line": 9,
+   "file": "day02-line009.mp3",
+   "sentence_id": "b1-day02-s09",
+   "en": "He is not as confident as he looks, and he gets nervous before speaking in public.",
+   "bytes": 48768
+  },
+  {
+   "line": 10,
+   "file": "day02-line010.mp3",
+   "sentence_id": "b1-day02-s10",
+   "en": "First impressions are not always correct, so give people a chance before judging them.",
+   "bytes": 52992
+  }
+ ]
+}
