@@ -9,70 +9,70 @@
    "file": "day04-line001.mp3",
    "sentence_id": "b1-day04-s01",
    "en": "Our flight was delayed by three hours because of bad weather, so we missed our connection.",
-   "bytes": 51264
+   "bytes": 37056
   },
   {
    "line": 2,
    "file": "day04-line002.mp3",
    "sentence_id": "b1-day04-s02",
    "en": "I am afraid my luggage has not arrived yet, although I was told it would be here this morning.",
-   "bytes": 52032
+   "bytes": 38016
   },
   {
    "line": 3,
    "file": "day04-line003.mp3",
    "sentence_id": "b1-day04-s03",
    "en": "Could you tell me where I can file a complaint? The service on this flight was disappointing.",
-   "bytes": 48192
+   "bytes": 35712
   },
   {
    "line": 4,
    "file": "day04-line004.mp3",
    "sentence_id": "b1-day04-s04",
    "en": "The hotel room was much smaller than it looked in the photos, and it had no sea view.",
-   "bytes": 54912
+   "bytes": 41088
   },
   {
    "line": 5,
    "file": "day04-line005.mp3",
    "sentence_id": "b1-day04-s05",
    "en": "We missed the connecting train, so we had to wait four hours for the next one.",
-   "bytes": 43584
+   "bytes": 33024
   },
   {
    "line": 6,
    "file": "day04-line006.mp3",
    "sentence_id": "b1-day04-s06",
    "en": "I lost my passport while I was walking around the old city, and I do not know what to do.",
-   "bytes": 52032
+   "bytes": 38784
   },
   {
    "line": 7,
    "file": "day04-line007.mp3",
    "sentence_id": "b1-day04-s07",
    "en": "Is there any chance of getting a refund for the canceled tickets, or at least changing the date?",
-   "bytes": 48192
+   "bytes": 36480
   },
   {
    "line": 8,
    "file": "day04-line008.mp3",
    "sentence_id": "b1-day04-s08",
    "en": "If we had left the hotel earlier, we would not have been stuck in traffic.",
-   "bytes": 44352
+   "bytes": 31296
   },
   {
    "line": 9,
    "file": "day04-line009.mp3",
    "sentence_id": "b1-day04-s09",
    "en": "The taxi driver took a much longer route, and then he charged us double the normal price.",
-   "bytes": 56448
+   "bytes": 43008
   },
   {
    "line": 10,
    "file": "day04-line010.mp3",
    "sentence_id": "b1-day04-s10",
    "en": "Despite all the problems we had on the way, we really enjoyed the trip.",
-   "bytes": 44928
+   "bytes": 31104
   }
  ]
 }
