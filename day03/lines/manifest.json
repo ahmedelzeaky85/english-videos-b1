@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 3,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day03-line001.mp3",
+   "sentence_id": "b1-day03-s01",
+   "en": "Did you hear about the new airport that is being built near the city, and when it will open?",
+   "bytes": 49152
+  },
+  {
+   "line": 2,
+   "file": "day03-line002.mp3",
+   "sentence_id": "b1-day03-s02",
+   "en": "According to the latest report, prices have risen by ten percent since the beginning of the year.",
+   "bytes": 51648
+  },
+  {
+   "line": 3,
+   "file": "day03-line003.mp3",
+   "sentence_id": "b1-day03-s03",
+   "en": "The government announced a plan to reduce traffic, which includes building more bridges and metro lines.",
+   "bytes": 50688
+  },
+  {
+   "line": 4,
+   "file": "day03-line004.mp3",
+   "sentence_id": "b1-day03-s04",
+   "en": "I try to read the news every morning, because I like to know what is happening in the world.",
+   "bytes": 48384
+  },
+  {
+   "line": 5,
+   "file": "day03-line005.mp3",
+   "sentence_id": "b1-day03-s05",
+   "en": "Many people were affected by the storm last week, and some are still waiting for help.",
+   "bytes": 53952
+  },
+  {
+   "line": 6,
+   "file": "day03-line006.mp3",
+   "sentence_id": "b1-day03-s06",
+   "en": "It was reported that the match has been postponed until next month because of the rain.",
+   "bytes": 47424
+  },
+  {
+   "line": 7,
+   "file": "day03-line007.mp3",
+   "sentence_id": "b1-day03-s07",
+   "en": "Not everything you see on social media is true, so always check where the information comes from.",
+   "bytes": 58368
+  },
+  {
+   "line": 8,
+   "file": "day03-line008.mp3",
+   "sentence_id": "b1-day03-s08",
+   "en": "The reporter interviewed several witnesses at the scene, and they all described the accident similarly.",
+   "bytes": 52032
+  },
+  {
+   "line": 9,
+   "file": "day03-line009.mp3",
+   "sentence_id": "b1-day03-s09",
+   "en": "I am worried about the economic situation, especially for young people looking for their first job.",
+   "bytes": 57984
+  },
+  {
+   "line": 10,
+   "file": "day03-line010.mp3",
+   "sentence_id": "b1-day03-s10",
+   "en": "Journalists should check their sources before publishing a story, otherwise they might spread false information.",
+   "bytes": 61632
+  }
+ ]
+}
