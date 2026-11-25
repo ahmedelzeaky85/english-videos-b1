@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 8,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day08-line001.mp3",
+   "sentence_id": "b1-day08-s01",
+   "en": "I check my phone first thing in the morning, which is a habit I am trying to change.",
+   "bytes": 50304
+  },
+  {
+   "line": 2,
+   "file": "day08-line002.mp3",
+   "sentence_id": "b1-day08-s02",
+   "en": "Social media makes it easy to stay in touch with friends, but it can also waste a lot of time.",
+   "bytes": 57600
+  },
+  {
+   "line": 3,
+   "file": "day08-line003.mp3",
+   "sentence_id": "b1-day08-s03",
+   "en": "She posted a photo of her new apartment, and within an hour, it had hundreds of likes.",
+   "bytes": 48576
+  },
+  {
+   "line": 4,
+   "file": "day08-line004.mp3",
+   "sentence_id": "b1-day08-s04",
+   "en": "I do not think everyone should share personal details online, because you never know who is watching.",
+   "bytes": 62592
+  },
+  {
+   "line": 5,
+   "file": "day08-line005.mp3",
+   "sentence_id": "b1-day08-s05",
+   "en": "Many companies use social media to advertise their products, since it is cheaper than television.",
+   "bytes": 56448
+  },
+  {
+   "line": 6,
+   "file": "day08-line006.mp3",
+   "sentence_id": "b1-day08-s06",
+   "en": "He deleted the app after he noticed that he was spending four hours a day scrolling.",
+   "bytes": 47808
+  },
+  {
+   "line": 7,
+   "file": "day08-line007.mp3",
+   "sentence_id": "b1-day08-s07",
+   "en": "It is difficult to know whether a story online is true, so you should always check the source.",
+   "bytes": 56640
+  },
+  {
+   "line": 8,
+   "file": "day08-line008.mp3",
+   "sentence_id": "b1-day08-s08",
+   "en": "My sister uploads a video every week, and she hopes to make a living from it one day.",
+   "bytes": 49920
+  },
+  {
+   "line": 9,
+   "file": "day08-line009.mp3",
+   "sentence_id": "b1-day08-s09",
+   "en": "Although online friendships can be real, I believe nothing replaces meeting someone face to face.",
+   "bytes": 56064
+  },
+  {
+   "line": 10,
+   "file": "day08-line010.mp3",
+   "sentence_id": "b1-day08-s10",
+   "en": "Parents should talk to their children about the risks of the internet instead of simply banning it.",
+   "bytes": 44736
+  }
+ ]
+}
