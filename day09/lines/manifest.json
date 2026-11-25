@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 9,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day09-line001.mp3",
+   "sentence_id": "b1-day09-s01",
+   "en": "Plastic bags take hundreds of years to break down, which is why many shops now ask you to bring your own.",
+   "bytes": 56064
+  },
+  {
+   "line": 2,
+   "file": "day09-line002.mp3",
+   "sentence_id": "b1-day09-s02",
+   "en": "If we do not reduce pollution soon, the air in big cities will become even more dangerous.",
+   "bytes": 60480
+  },
+  {
+   "line": 3,
+   "file": "day09-line003.mp3",
+   "sentence_id": "b1-day09-s03",
+   "en": "I try to use public transport whenever I can, because it is better for the environment and cheaper than driving.",
+   "bytes": 62784
+  },
+  {
+   "line": 4,
+   "file": "day09-line004.mp3",
+   "sentence_id": "b1-day09-s04",
+   "en": "Our village started recycling paper and glass last year, and the streets are cleaner than they used to be.",
+   "bytes": 54528
+  },
+  {
+   "line": 5,
+   "file": "day09-line005.mp3",
+   "sentence_id": "b1-day09-s05",
+   "en": "Climate change is not only a problem for the future, because we can already see its effects today.",
+   "bytes": 61440
+  },
+  {
+   "line": 6,
+   "file": "day09-line006.mp3",
+   "sentence_id": "b1-day09-s06",
+   "en": "She turns off the lights and unplugs her devices to save energy and lower her electricity bill.",
+   "bytes": 53952
+  },
+  {
+   "line": 7,
+   "file": "day09-line007.mp3",
+   "sentence_id": "b1-day09-s07",
+   "en": "Governments should invest more in solar energy, since Egypt has sunshine for most of the year.",
+   "bytes": 55680
+  },
+  {
+   "line": 8,
+   "file": "day09-line008.mp3",
+   "sentence_id": "b1-day09-s08",
+   "en": "It was not easy to give up bottled water, but now I carry a reusable bottle everywhere I go.",
+   "bytes": 56256
+  },
+  {
+   "line": 9,
+   "file": "day09-line009.mp3",
+   "sentence_id": "b1-day09-s09",
+   "en": "Cutting down trees without planting new ones damages the land and destroys the homes of many animals.",
+   "bytes": 62208
+  },
+  {
+   "line": 10,
+   "file": "day09-line010.mp3",
+   "sentence_id": "b1-day09-s10",
+   "en": "Small changes in our daily habits may not seem important, but together they can make a real difference.",
+   "bytes": 59712
+  }
+ ]
+}
