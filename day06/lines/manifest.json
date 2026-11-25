@@ -1,0 +1,239 @@
+{
+ "level": "B1",
+ "day": 6,
+ "count": 33,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day06-line001.mp3",
+   "speaker": "Sara",
+   "en": "Hi Omar! It has been a long time. How have you been?",
+   "bytes": 39168
+  },
+  {
+   "line": 2,
+   "file": "day06-line002.mp3",
+   "speaker": "Omar",
+   "en": "Hi Sara! Busy, as usual. I have been working in marketing for five years, and I feel ready for more responsibility.",
+   "bytes": 68544
+  },
+  {
+   "line": 3,
+   "file": "day06-line003.mp3",
+   "speaker": "Sara",
+   "en": "That sounds exciting. What do you want to do next?",
+   "bytes": 32064
+  },
+  {
+   "line": 4,
+   "file": "day06-line004.mp3",
+   "speaker": "Omar",
+   "en": "My main goal is to become a team leader by next year, if the company agrees.",
+   "bytes": 49344
+  },
+  {
+   "line": 5,
+   "file": "day06-line005.mp3",
+   "speaker": "Sara",
+   "en": "If I get the promotion, I will have more responsibility, but less free time.",
+   "bytes": 49152
+  },
+  {
+   "line": 6,
+   "file": "day06-line006.mp3",
+   "speaker": "Omar",
+   "en": "Working under pressure has taught me how to stay organized and manage my time.",
+   "bytes": 43008
+  },
+  {
+   "line": 7,
+   "file": "day06-line007.mp3",
+   "speaker": "Sara",
+   "en": "How is your manager these days?",
+   "bytes": 22272
+  },
+  {
+   "line": 8,
+   "file": "day06-line008.mp3",
+   "speaker": "Omar",
+   "en": "My manager is strict about deadlines, but I respect her because she is fair with everyone.",
+   "bytes": 56832
+  },
+  {
+   "line": 9,
+   "file": "day06-line009.mp3",
+   "speaker": "Sara",
+   "en": "I admire people who stay calm in difficult situations and never blame others for their mistakes.",
+   "bytes": 55488
+  },
+  {
+   "line": 10,
+   "file": "day06-line010.mp3",
+   "speaker": "Omar",
+   "en": "First impressions are not always correct, so give people a chance before judging them.",
+   "bytes": 51072
+  },
+  {
+   "line": 11,
+   "file": "day06-line011.mp3",
+   "speaker": "Sara",
+   "en": "Did you hear about the new airport that is being built near the city, and when it will open?",
+   "bytes": 51072
+  },
+  {
+   "line": 12,
+   "file": "day06-line012.mp3",
+   "speaker": "Omar",
+   "en": "I try to read the news every morning, because I like to know what is happening in the world.",
+   "bytes": 46464
+  },
+  {
+   "line": 13,
+   "file": "day06-line013.mp3",
+   "speaker": "Sara",
+   "en": "Not everything you see on social media is true, so always check where the information comes from.",
+   "bytes": 60864
+  },
+  {
+   "line": 14,
+   "file": "day06-line014.mp3",
+   "speaker": "Omar",
+   "en": "I am worried about the economic situation, especially for young people looking for their first job.",
+   "bytes": 55104
+  },
+  {
+   "line": 15,
+   "file": "day06-line015.mp3",
+   "speaker": "Sara",
+   "en": "Let's talk about something happier. Did you travel this summer?",
+   "bytes": 33984
+  },
+  {
+   "line": 16,
+   "file": "day06-line016.mp3",
+   "speaker": "Omar",
+   "en": "Yes, but our flight was delayed by three hours because of bad weather, so we missed our connection.",
+   "bytes": 57024
+  },
+  {
+   "line": 17,
+   "file": "day06-line017.mp3",
+   "speaker": "Sara",
+   "en": "Oh no! What did you do?",
+   "bytes": 23424
+  },
+  {
+   "line": 18,
+   "file": "day06-line018.mp3",
+   "speaker": "Omar",
+   "en": "We missed the connecting train, so we had to wait four hours for the next one.",
+   "bytes": 44544
+  },
+  {
+   "line": 19,
+   "file": "day06-line019.mp3",
+   "speaker": "Sara",
+   "en": "I had problems too. The hotel room was much smaller than it looked in the photos, and it had no sea view.",
+   "bytes": 71808
+  },
+  {
+   "line": 20,
+   "file": "day06-line020.mp3",
+   "speaker": "Omar",
+   "en": "If we had left the hotel earlier, we would not have been stuck in traffic.",
+   "bytes": 41472
+  },
+  {
+   "line": 21,
+   "file": "day06-line021.mp3",
+   "speaker": "Omar",
+   "en": "Despite all the problems we had on the way, we really enjoyed the trip.",
+   "bytes": 47232
+  },
+  {
+   "line": 22,
+   "file": "day06-line022.mp3",
+   "speaker": "Sara",
+   "en": "That is the right attitude. By the way, you look healthier. Are you doing something different?",
+   "bytes": 54144
+  },
+  {
+   "line": 23,
+   "file": "day06-line023.mp3",
+   "speaker": "Omar",
+   "en": "I used to drink a lot of soda, but I stopped last year, and now I feel more energetic.",
+   "bytes": 50112
+  },
+  {
+   "line": 24,
+   "file": "day06-line024.mp3",
+   "speaker": "Sara",
+   "en": "Regular exercise reduces stress and improves your mood, which is why many doctors recommend it.",
+   "bytes": 61632
+  },
+  {
+   "line": 25,
+   "file": "day06-line025.mp3",
+   "speaker": "Omar",
+   "en": "It is easier to stay motivated when you exercise with a friend, because you do not want to let them down.",
+   "bytes": 58752
+  },
+  {
+   "line": 26,
+   "file": "day06-line026.mp3",
+   "speaker": "Sara",
+   "en": "Then let's walk together.",
+   "bytes": 17472
+  },
+  {
+   "line": 27,
+   "file": "day06-line027.mp3",
+   "speaker": "Sara",
+   "en": "Taking a short walk after dinner helps digestion, and it also clears your mind after a long day.",
+   "bytes": 57024
+  },
+  {
+   "line": 28,
+   "file": "day06-line028.mp3",
+   "speaker": "Omar",
+   "en": "A balanced lifestyle is more important than a strict diet, because you can keep it up for years.",
+   "bytes": 57984
+  },
+  {
+   "line": 29,
+   "file": "day06-line029.mp3",
+   "speaker": "Sara",
+   "en": "Setting clear goals helps you measure your progress and stay motivated when work gets difficult.",
+   "bytes": 53568
+  },
+  {
+   "line": 30,
+   "file": "day06-line030.mp3",
+   "speaker": "Omar",
+   "en": "I am planning to take an online course so that I can learn the skills my job requires.",
+   "bytes": 54144
+  },
+  {
+   "line": 31,
+   "file": "day06-line031.mp3",
+   "speaker": "Sara",
+   "en": "That is a good idea. It was great to talk to you.",
+   "bytes": 29568
+  },
+  {
+   "line": 32,
+   "file": "day06-line032.mp3",
+   "speaker": "Omar",
+   "en": "Same here. Let's meet again next month.",
+   "bytes": 28608
+  },
+  {
+   "line": 33,
+   "file": "day06-line033.mp3",
+   "speaker": "Sara",
+   "en": "Take care, Omar. See you soon!",
+   "bytes": 21504
+  }
+ ]
+}
