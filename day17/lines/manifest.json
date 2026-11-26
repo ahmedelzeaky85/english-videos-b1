@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 17,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day17-line001.mp3",
+   "sentence_id": "b1-day17-s01",
+   "en": "At the end of every month, I write down what I spent, so I can see where my money went.",
+   "bytes": 60288
+  },
+  {
+   "line": 2,
+   "file": "day17-line002.mp3",
+   "sentence_id": "b1-day17-s02",
+   "en": "It is much easier to save money when you have a clear goal, such as buying a car or travelling.",
+   "bytes": 62400
+  },
+  {
+   "line": 3,
+   "file": "day17-line003.mp3",
+   "sentence_id": "b1-day17-s03",
+   "en": "I used to spend too much on coffee and snacks, until I realized how quickly small amounts add up.",
+   "bytes": 69504
+  },
+  {
+   "line": 4,
+   "file": "day17-line004.mp3",
+   "sentence_id": "b1-day17-s04",
+   "en": "Having a budget does not mean you cannot enjoy life, it simply means you spend with a plan.",
+   "bytes": 58752
+  },
+  {
+   "line": 5,
+   "file": "day17-line005.mp3",
+   "sentence_id": "b1-day17-s05",
+   "en": "She borrowed some money from a friend, and she promised to pay it back by the end of the month.",
+   "bytes": 56256
+  },
+  {
+   "line": 6,
+   "file": "day17-line006.mp3",
+   "sentence_id": "b1-day17-s06",
+   "en": "Prices have gone up so much that many families can no longer afford the things they used to buy.",
+   "bytes": 68352
+  },
+  {
+   "line": 7,
+   "file": "day17-line007.mp3",
+   "sentence_id": "b1-day17-s07",
+   "en": "Before you take a loan, make sure you understand how much interest you will pay in total.",
+   "bytes": 52608
+  },
+  {
+   "line": 8,
+   "file": "day17-line008.mp3",
+   "sentence_id": "b1-day17-s08",
+   "en": "I would rather spend money on experiences than on things that I will forget about in a few months.",
+   "bytes": 63936
+  },
+  {
+   "line": 9,
+   "file": "day17-line009.mp3",
+   "sentence_id": "b1-day17-s09",
+   "en": "Keeping some money aside for emergencies gives you peace of mind, even if you never need to use it.",
+   "bytes": 61824
+  },
+  {
+   "line": 10,
+   "file": "day17-line010.mp3",
+   "sentence_id": "b1-day17-s10",
+   "en": "Being rich is not only about how much you earn, but also about how wisely you manage what you have.",
+   "bytes": 66048
+  }
+ ]
+}
