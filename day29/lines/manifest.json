@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 29,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day29-line001.mp3",
+   "sentence_id": "b1-day29-s01",
+   "en": "If I had known about the traffic, I would have left home earlier.",
+   "bytes": 32448
+  },
+  {
+   "line": 2,
+   "file": "day29-line002.mp3",
+   "sentence_id": "b1-day29-s02",
+   "en": "The report has already been sent to everyone in the department.",
+   "bytes": 38400
+  },
+  {
+   "line": 3,
+   "file": "day29-line003.mp3",
+   "sentence_id": "b1-day29-s03",
+   "en": "She asked me whether I had finished the work she had given me.",
+   "bytes": 33600
+  },
+  {
+   "line": 4,
+   "file": "day29-line004.mp3",
+   "sentence_id": "b1-day29-s04",
+   "en": "Not only did he pass the exam, but he also got the highest mark.",
+   "bytes": 40320
+  },
+  {
+   "line": 5,
+   "file": "day29-line005.mp3",
+   "sentence_id": "b1-day29-s05",
+   "en": "The more you practice speaking, the more confident you will become.",
+   "bytes": 35328
+  },
+  {
+   "line": 6,
+   "file": "day29-line006.mp3",
+   "sentence_id": "b1-day29-s06",
+   "en": "This time next month, we will be preparing for the big conference.",
+   "bytes": 36864
+  },
+  {
+   "line": 7,
+   "file": "day29-line007.mp3",
+   "sentence_id": "b1-day29-s07",
+   "en": "It is the most interesting book that I have ever read.",
+   "bytes": 32064
+  },
+  {
+   "line": 8,
+   "file": "day29-line008.mp3",
+   "sentence_id": "b1-day29-s08",
+   "en": "Unless we hurry, we are going to miss the beginning of the film.",
+   "bytes": 37248
+  },
+  {
+   "line": 9,
+   "file": "day29-line009.mp3",
+   "sentence_id": "b1-day29-s09",
+   "en": "He apologized for being late and promised it would not happen again.",
+   "bytes": 42624
+  },
+  {
+   "line": 10,
+   "file": "day29-line010.mp3",
+   "sentence_id": "b1-day29-s10",
+   "en": "Looking back at this level, I am surprised by how much my English has improved.",
+   "bytes": 47616
+  }
+ ]
+}
