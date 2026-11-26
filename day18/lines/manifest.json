@@ -1,0 +1,188 @@
+{
+ "level": "B1",
+ "day": 18,
+ "count": 30,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day18-line001.mp3",
+   "en": "Hi Omar! You look thoughtful today. What is on your mind?",
+   "bytes": 39168
+  },
+  {
+   "line": 2,
+   "file": "day18-line002.mp3",
+   "en": "Hi Sara. I was just remembering the summers we used to spend at my grandparents' house by the sea.",
+   "bytes": 51648
+  },
+  {
+   "line": 3,
+   "file": "day18-line003.mp3",
+   "en": "Those are beautiful memories. I have never been abroad, but I have always dreamed of visiting Italy.",
+   "bytes": 58368
+  },
+  {
+   "line": 4,
+   "file": "day18-line004.mp3",
+   "en": "You should go one day. The best trips are the ones we dream about for years.",
+   "bytes": 45504
+  },
+  {
+   "line": 5,
+   "file": "day18-line005.mp3",
+   "en": "Maybe. Right now I have a problem, and I need your advice.",
+   "bytes": 42048
+  },
+  {
+   "line": 6,
+   "file": "day18-line006.mp3",
+   "en": "Of course. Tell me what happened.",
+   "bytes": 19008
+  },
+  {
+   "line": 7,
+   "file": "day18-line007.mp3",
+   "en": "My company offered me a new job in Alexandria, but I can't decide whether to take it.",
+   "bytes": 52608
+  },
+  {
+   "line": 8,
+   "file": "day18-line008.mp3",
+   "en": "If I were you, I would talk to your manager before making any decision.",
+   "bytes": 37824
+  },
+  {
+   "line": 9,
+   "file": "day18-line009.mp3",
+   "en": "You are right. It is hard to choose, because the new job pays more, but my current team is better.",
+   "bytes": 59712
+  },
+  {
+   "line": 10,
+   "file": "day18-line010.mp3",
+   "en": "When you have too many options, write down the advantages and disadvantages of each one.",
+   "bytes": 57408
+  },
+  {
+   "line": 11,
+   "file": "day18-line011.mp3",
+   "en": "That is what my father always told me: listen more than you speak, and think before you decide.",
+   "bytes": 59712
+  },
+  {
+   "line": 12,
+   "file": "day18-line012.mp3",
+   "en": "Whatever you decide, make sure it is your own choice, not something other people expect from you.",
+   "bytes": 52608
+  },
+  {
+   "line": 13,
+   "file": "day18-line013.mp3",
+   "en": "Thanks, Omar. By the way, did you finally buy the new phone you wanted?",
+   "bytes": 43584
+  },
+  {
+   "line": 14,
+   "file": "day18-line014.mp3",
+   "en": "Not yet. This one is more expensive than the other, but its camera is much better and the battery lasts longer.",
+   "bytes": 70848
+  },
+  {
+   "line": 15,
+   "file": "day18-line015.mp3",
+   "en": "The more I think about prices these days, the more I believe we should compare before we buy.",
+   "bytes": 56064
+  },
+  {
+   "line": 16,
+   "file": "day18-line016.mp3",
+   "en": "Compared with last year, everything has become much more expensive.",
+   "bytes": 42624
+  },
+  {
+   "line": 17,
+   "file": "day18-line017.mp3",
+   "en": "That is why I started writing down what I spend at the end of every month.",
+   "bytes": 42432
+  },
+  {
+   "line": 18,
+   "file": "day18-line018.mp3",
+   "en": "Good idea. I used to spend too much on coffee and snacks, until I realized how quickly small amounts add up.",
+   "bytes": 79104
+  },
+  {
+   "line": 19,
+   "file": "day18-line019.mp3",
+   "en": "Having a budget does not mean you cannot enjoy life; it simply means you spend with a plan.",
+   "bytes": 56064
+  },
+  {
+   "line": 20,
+   "file": "day18-line020.mp3",
+   "en": "And keeping some money aside for emergencies gives you peace of mind.",
+   "bytes": 40512
+  },
+  {
+   "line": 21,
+   "file": "day18-line021.mp3",
+   "en": "True. Can I ask you something else? What do you think about all this new technology?",
+   "bytes": 52608
+  },
+  {
+   "line": 22,
+   "file": "day18-line022.mp3",
+   "en": "Artificial intelligence is already changing the way we work, and it will probably change it even more.",
+   "bytes": 61632
+  },
+  {
+   "line": 23,
+   "file": "day18-line023.mp3",
+   "en": "Smartphones have made our lives easier, but they have also made it harder to disconnect from work.",
+   "bytes": 57792
+  },
+  {
+   "line": 24,
+   "file": "day18-line024.mp3",
+   "en": "In the future, I think most people will work from home, because meetings can be held online.",
+   "bytes": 54144
+  },
+  {
+   "line": 25,
+   "file": "day18-line025.mp3",
+   "en": "My grandfather could not believe that you can see someone's face while talking to them on the phone.",
+   "bytes": 55104
+  },
+  {
+   "line": 26,
+   "file": "day18-line026.mp3",
+   "en": "Technology is only a tool; whether it helps or harms us depends on how we choose to use it.",
+   "bytes": 65472
+  },
+  {
+   "line": 27,
+   "file": "day18-line027.mp3",
+   "en": "I agree. By the way, I ended up finding a wonderful little restaurant near my house last week.",
+   "bytes": 60672
+  },
+  {
+   "line": 28,
+   "file": "day18-line028.mp3",
+   "en": "Really? We should go there together sometime. My treat, since I saved some money this month.",
+   "bytes": 53568
+  },
+  {
+   "line": 29,
+   "file": "day18-line029.mp3",
+   "en": "Deal! And do not forget to write it in your budget.",
+   "bytes": 33024
+  },
+  {
+   "line": 30,
+   "file": "day18-line030.mp3",
+   "en": "I will. Take care, Sara. See you soon!",
+   "bytes": 25344
+  }
+ ]
+}
