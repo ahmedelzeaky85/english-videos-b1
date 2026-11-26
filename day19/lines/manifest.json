@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 19,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day19-line001.mp3",
+   "sentence_id": "b1-day19-s01",
+   "en": "The interviewer asked me why I wanted to work for their company.",
+   "bytes": 32448
+  },
+  {
+   "line": 2,
+   "file": "day19-line002.mp3",
+   "sentence_id": "b1-day19-s02",
+   "en": "I was so nervous before the interview that I could not eat anything in the morning.",
+   "bytes": 44160
+  },
+  {
+   "line": 3,
+   "file": "day19-line003.mp3",
+   "sentence_id": "b1-day19-s03",
+   "en": "You should arrive at least fifteen minutes early, so you have time to relax.",
+   "bytes": 46464
+  },
+  {
+   "line": 4,
+   "file": "day19-line004.mp3",
+   "sentence_id": "b1-day19-s04",
+   "en": "She has worked in marketing for five years, which makes her a strong candidate.",
+   "bytes": 42432
+  },
+  {
+   "line": 5,
+   "file": "day19-line005.mp3",
+   "sentence_id": "b1-day19-s05",
+   "en": "If I get the job, I will have to move closer to the office.",
+   "bytes": 35328
+  },
+  {
+   "line": 6,
+   "file": "day19-line006.mp3",
+   "sentence_id": "b1-day19-s06",
+   "en": "They told me they would call me by the end of the week, but I am still waiting.",
+   "bytes": 38208
+  },
+  {
+   "line": 7,
+   "file": "day19-line007.mp3",
+   "sentence_id": "b1-day19-s07",
+   "en": "He was asked to describe a difficult situation he had dealt with at work.",
+   "bytes": 48384
+  },
+  {
+   "line": 8,
+   "file": "day19-line008.mp3",
+   "sentence_id": "b1-day19-s08",
+   "en": "Dressing well for an interview shows that you take the opportunity seriously.",
+   "bytes": 41664
+  },
+  {
+   "line": 9,
+   "file": "day19-line009.mp3",
+   "sentence_id": "b1-day19-s09",
+   "en": "I prepared for the interview by reading about the company and practicing my answers.",
+   "bytes": 51072
+  },
+  {
+   "line": 10,
+   "file": "day19-line010.mp3",
+   "sentence_id": "b1-day19-s10",
+   "en": "Whether they choose me or not, I am glad I had the experience.",
+   "bytes": 37248
+  }
+ ]
+}
