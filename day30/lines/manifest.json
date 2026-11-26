@@ -1,0 +1,758 @@
+{
+ "level": "B1",
+ "day": 30,
+ "count": 125,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day30-line001.mp3",
+   "en": "Hi Omar! It has been such a long time. How have you been?",
+   "bytes": 39981
+  },
+  {
+   "line": 2,
+   "file": "day30-line002.mp3",
+   "en": "Hi Sara! I am great. I have been working in marketing for five years, and I feel ready for more responsibility.",
+   "bytes": 72429
+  },
+  {
+   "line": 3,
+   "file": "day30-line003.mp3",
+   "en": "That is wonderful. What is your main goal these days?",
+   "bytes": 34029
+  },
+  {
+   "line": 4,
+   "file": "day30-line004.mp3",
+   "en": "My main goal is to become a team leader by next year, if the company agrees.",
+   "bytes": 49581
+  },
+  {
+   "line": 5,
+   "file": "day30-line005.mp3",
+   "en": "If you get the promotion, you will have more responsibility, but less free time.",
+   "bytes": 49005
+  },
+  {
+   "line": 6,
+   "file": "day30-line006.mp3",
+   "en": "I know. But setting clear goals helps me measure my progress and stay motivated when work gets difficult.",
+   "bytes": 65709
+  },
+  {
+   "line": 7,
+   "file": "day30-line007.mp3",
+   "en": "How is your manager these days? Still strict?",
+   "bytes": 29805
+  },
+  {
+   "line": 8,
+   "file": "day30-line008.mp3",
+   "en": "She is strict about deadlines, but I respect her because she is fair with everyone.",
+   "bytes": 51309
+  },
+  {
+   "line": 9,
+   "file": "day30-line009.mp3",
+   "en": "I admire people who stay calm in difficult situations and never blame others for their mistakes.",
+   "bytes": 61101
+  },
+  {
+   "line": 10,
+   "file": "day30-line010.mp3",
+   "en": "Me too. And I have learned that first impressions are not always correct, so I give people a chance before judging them.",
+   "bytes": 74925
+  },
+  {
+   "line": 11,
+   "file": "day30-line011.mp3",
+   "en": "Wise words. By the way, did you hear about the new airport that is being built near the city?",
+   "bytes": 55341
+  },
+  {
+   "line": 12,
+   "file": "day30-line012.mp3",
+   "en": "Yes! I try to read the news every morning, because I like to know what is happening in the world.",
+   "bytes": 56109
+  },
+  {
+   "line": 13,
+   "file": "day30-line013.mp3",
+   "en": "Just remember, not everything you see on social media is true, so always check where the information comes from.",
+   "bytes": 65325
+  },
+  {
+   "line": 14,
+   "file": "day30-line014.mp3",
+   "en": "Of course. I am worried about the economic situation, especially for young people looking for their first job.",
+   "bytes": 63021
+  },
+  {
+   "line": 15,
+   "file": "day30-line015.mp3",
+   "en": "Let's talk about something happier. Did you travel anywhere this year?",
+   "bytes": 40941
+  },
+  {
+   "line": 16,
+   "file": "day30-line016.mp3",
+   "en": "I went to Greece, but our flight was delayed by three hours because of bad weather, so we missed our connection.",
+   "bytes": 64749
+  },
+  {
+   "line": 17,
+   "file": "day30-line017.mp3",
+   "en": "Oh no! That sounds exhausting.",
+   "bytes": 26349
+  },
+  {
+   "line": 18,
+   "file": "day30-line018.mp3",
+   "en": "It was. We had to wait four hours for the next flight, and my luggage did not arrive until the next day.",
+   "bytes": 71661
+  },
+  {
+   "line": 19,
+   "file": "day30-line019.mp3",
+   "en": "If you had left earlier, you would not have been stuck in all that.",
+   "bytes": 34605
+  },
+  {
+   "line": 20,
+   "file": "day30-line020.mp3",
+   "en": "True. But despite all the problems we had on the way, we really enjoyed the trip.",
+   "bytes": 51501
+  },
+  {
+   "line": 21,
+   "file": "day30-line021.mp3",
+   "en": "That is the right attitude. You look healthier too. Are you doing something different?",
+   "bytes": 50349
+  },
+  {
+   "line": 22,
+   "file": "day30-line022.mp3",
+   "en": "I used to drink a lot of soda, but I stopped last year, and now I feel more energetic.",
+   "bytes": 61101
+  },
+  {
+   "line": 23,
+   "file": "day30-line023.mp3",
+   "en": "Regular exercise reduces stress and improves your mood, which is why many doctors recommend it.",
+   "bytes": 59949
+  },
+  {
+   "line": 24,
+   "file": "day30-line024.mp3",
+   "en": "And I take a short walk after dinner; it helps digestion, and it clears my mind after a long day.",
+   "bytes": 61101
+  },
+  {
+   "line": 25,
+   "file": "day30-line025.mp3",
+   "en": "A balanced lifestyle is more important than a strict diet, because you can keep it up for years.",
+   "bytes": 58605
+  },
+  {
+   "line": 26,
+   "file": "day30-line026.mp3",
+   "en": "Exactly. Are you still taking that online course you told me about?",
+   "bytes": 38445
+  },
+  {
+   "line": 27,
+   "file": "day30-line027.mp3",
+   "en": "Yes. Learning a new skill takes time, but it becomes easier once you start using it every day.",
+   "bytes": 60525
+  },
+  {
+   "line": 28,
+   "file": "day30-line028.mp3",
+   "en": "In my opinion, practical skills are just as important as a university degree when you look for a job.",
+   "bytes": 54765
+  },
+  {
+   "line": 29,
+   "file": "day30-line029.mp3",
+   "en": "I agree. Reading books regularly also improves your vocabulary and helps you express your ideas more clearly.",
+   "bytes": 68205
+  },
+  {
+   "line": 30,
+   "file": "day30-line030.mp3",
+   "en": "Whether you learn at school or by yourself, the most important thing is to stay curious and keep going.",
+   "bytes": 62829
+  },
+  {
+   "line": 31,
+   "file": "day30-line031.mp3",
+   "en": "Speaking of learning, my sister uploads an educational video every week, and she hopes to make a living from it one day.",
+   "bytes": 72045
+  },
+  {
+   "line": 32,
+   "file": "day30-line032.mp3",
+   "en": "Social media makes it easy to reach people, but it can also waste a lot of time.",
+   "bytes": 53805
+  },
+  {
+   "line": 33,
+   "file": "day30-line033.mp3",
+   "en": "I check my phone first thing in the morning, which is a habit I am trying to change.",
+   "bytes": 50541
+  },
+  {
+   "line": 34,
+   "file": "day30-line034.mp3",
+   "en": "Although online friendships can be real, I believe nothing replaces meeting someone face to face.",
+   "bytes": 59181
+  },
+  {
+   "line": 35,
+   "file": "day30-line035.mp3",
+   "en": "Like us now! Did you read about the environment conference last week?",
+   "bytes": 42285
+  },
+  {
+   "line": 36,
+   "file": "day30-line036.mp3",
+   "en": "Yes. If we do not reduce pollution soon, the air in big cities will become even more dangerous.",
+   "bytes": 68781
+  },
+  {
+   "line": 37,
+   "file": "day30-line037.mp3",
+   "en": "I try to use public transport whenever I can, because it is better for the environment and cheaper than driving.",
+   "bytes": 70125
+  },
+  {
+   "line": 38,
+   "file": "day30-line038.mp3",
+   "en": "Small changes in our daily habits may not seem important, but together they can make a real difference.",
+   "bytes": 57645
+  },
+  {
+   "line": 39,
+   "file": "day30-line039.mp3",
+   "en": "Governments should invest more in solar energy, since Egypt has sunshine for most of the year.",
+   "bytes": 65709
+  },
+  {
+   "line": 40,
+   "file": "day30-line040.mp3",
+   "en": "Changing the subject, are you still gathering with your family on Fridays?",
+   "bytes": 36525
+  },
+  {
+   "line": 41,
+   "file": "day30-line041.mp3",
+   "en": "Always. We gather for a big lunch, and everyone brings a different dish.",
+   "bytes": 48429
+  },
+  {
+   "line": 42,
+   "file": "day30-line042.mp3",
+   "en": "Traditions give us a sense of belonging, especially when we are far away from home.",
+   "bytes": 52461
+  },
+  {
+   "line": 43,
+   "file": "day30-line043.mp3",
+   "en": "My grandmother taught me how to bake traditional bread, and I hope to teach my children one day.",
+   "bytes": 50541
+  },
+  {
+   "line": 44,
+   "file": "day30-line044.mp3",
+   "en": "That is beautiful. Some customs change over the years, but the most important values stay the same.",
+   "bytes": 71661
+  },
+  {
+   "line": 45,
+   "file": "day30-line045.mp3",
+   "en": "By the way, I finally returned that jacket I told you about. The zip broke the first time I wore it.",
+   "bytes": 56685
+  },
+  {
+   "line": 46,
+   "file": "day30-line046.mp3",
+   "en": "Did you get your money back?",
+   "bytes": 16941
+  },
+  {
+   "line": 47,
+   "file": "day30-line047.mp3",
+   "en": "I complained politely, and the company offered me a replacement as well as a small discount.",
+   "bytes": 54765
+  },
+  {
+   "line": 48,
+   "file": "day30-line048.mp3",
+   "en": "Good result. I usually compare prices online before I buy anything expensive, because it can save me a lot of money.",
+   "bytes": 75885
+  },
+  {
+   "line": 49,
+   "file": "day30-line049.mp3",
+   "en": "It is not always worth paying more for a famous brand, since cheaper products are often just as good.",
+   "bytes": 64941
+  },
+  {
+   "line": 50,
+   "file": "day30-line050.mp3",
+   "en": "This conversation is bringing back memories. Do you remember our school trips?",
+   "bytes": 48429
+  },
+  {
+   "line": 51,
+   "file": "day30-line051.mp3",
+   "en": "How could I forget? When I was a child, we used to spend every summer at my grandparents' house by the sea.",
+   "bytes": 58221
+  },
+  {
+   "line": 52,
+   "file": "day30-line052.mp3",
+   "en": "The best day of my life was when I graduated, because my whole family was there to celebrate with me.",
+   "bytes": 56301
+  },
+  {
+   "line": 53,
+   "file": "day30-line053.mp3",
+   "en": "Looking back, I think failing that math exam taught me more than passing it ever could.",
+   "bytes": 51501
+  },
+  {
+   "line": 54,
+   "file": "day30-line054.mp3",
+   "en": "Some memories fade with time, while others stay with us for the rest of our lives.",
+   "bytes": 53421
+  },
+  {
+   "line": 55,
+   "file": "day30-line055.mp3",
+   "en": "Speaking of memories, my cousin wants to quit his job. What would you advise him?",
+   "bytes": 48045
+  },
+  {
+   "line": 56,
+   "file": "day30-line056.mp3",
+   "en": "If I were him, I would talk to his manager before making any decision about leaving the company.",
+   "bytes": 60141
+  },
+  {
+   "line": 57,
+   "file": "day30-line057.mp3",
+   "en": "I told him he had better start preparing first, otherwise he will be stressed when the time comes.",
+   "bytes": 57069
+  },
+  {
+   "line": 58,
+   "file": "day30-line058.mp3",
+   "en": "Whatever he decides, he should make sure it is his own choice, not something other people expect from him.",
+   "bytes": 58221
+  },
+  {
+   "line": 59,
+   "file": "day30-line059.mp3",
+   "en": "Taking advice is easy, but it takes courage to change the way you have been doing things for years.",
+   "bytes": 59181
+  },
+  {
+   "line": 60,
+   "file": "day30-line060.mp3",
+   "en": "He is also choosing between two apartments; one is cheaper while the other is closer to work.",
+   "bytes": 60909
+  },
+  {
+   "line": 61,
+   "file": "day30-line061.mp3",
+   "en": "When you have too many options, it is better to write down the advantages and disadvantages of each one.",
+   "bytes": 63021
+  },
+  {
+   "line": 62,
+   "file": "day30-line062.mp3",
+   "en": "The more I think about it, the more I believe the quieter place is the safer choice for him.",
+   "bytes": 57069
+  },
+  {
+   "line": 63,
+   "file": "day30-line063.mp3",
+   "en": "Living in a small town is not as exciting as living in a big city, but it is certainly calmer.",
+   "bytes": 59949
+  },
+  {
+   "line": 64,
+   "file": "day30-line064.mp3",
+   "en": "Let's hope he chooses well. Have you seen how fast technology is changing our lives?",
+   "bytes": 53229
+  },
+  {
+   "line": 65,
+   "file": "day30-line065.mp3",
+   "en": "Artificial intelligence is already changing the way we work, and it will probably change it even more.",
+   "bytes": 58221
+  },
+  {
+   "line": 66,
+   "file": "day30-line066.mp3",
+   "en": "Smartphones have made our lives easier, but they have also made it harder to disconnect from work.",
+   "bytes": 52845
+  },
+  {
+   "line": 67,
+   "file": "day30-line067.mp3",
+   "en": "It is important to protect your personal data, because companies collect far more information than you realize.",
+   "bytes": 61869
+  },
+  {
+   "line": 68,
+   "file": "day30-line068.mp3",
+   "en": "Technology is only a tool, and whether it helps or harms us depends on how we choose to use it.",
+   "bytes": 67629
+  },
+  {
+   "line": 69,
+   "file": "day30-line069.mp3",
+   "en": "Talking about work reminded me: how is your budget plan going?",
+   "bytes": 42285
+  },
+  {
+   "line": 70,
+   "file": "day30-line070.mp3",
+   "en": "At the end of every month, I write down what I spent, so I can see where my money went.",
+   "bytes": 54381
+  },
+  {
+   "line": 71,
+   "file": "day30-line071.mp3",
+   "en": "It is much easier to save money when you have a clear goal, such as buying a car or travelling.",
+   "bytes": 62829
+  },
+  {
+   "line": 72,
+   "file": "day30-line072.mp3",
+   "en": "Having a budget does not mean you cannot enjoy life; it simply means you spend with a plan.",
+   "bytes": 60141
+  },
+  {
+   "line": 73,
+   "file": "day30-line073.mp3",
+   "en": "I would rather spend money on experiences than on things that I will forget about in a few months.",
+   "bytes": 58029
+  },
+  {
+   "line": 74,
+   "file": "day30-line074.mp3",
+   "en": "Being rich is not only about how much you earn, but also about how wisely you manage what you have.",
+   "bytes": 63021
+  },
+  {
+   "line": 75,
+   "file": "day30-line075.mp3",
+   "en": "Wise again. Oh, before I forget, how did your brother's interview go?",
+   "bytes": 45549
+  },
+  {
+   "line": 76,
+   "file": "day30-line076.mp3",
+   "en": "He was nervous, but he had practiced his answers so many times that he felt confident.",
+   "bytes": 49581
+  },
+  {
+   "line": 77,
+   "file": "day30-line077.mp3",
+   "en": "The interviewer asked him why he wanted to work for their company, I suppose?",
+   "bytes": 40365
+  },
+  {
+   "line": 78,
+   "file": "day30-line078.mp3",
+   "en": "Exactly. And they told him they would call him by the end of the week.",
+   "bytes": 37869
+  },
+  {
+   "line": 79,
+   "file": "day30-line079.mp3",
+   "en": "Dressing well for an interview shows that you take the opportunity seriously, and he always dresses smartly.",
+   "bytes": 64365
+  },
+  {
+   "line": 80,
+   "file": "day30-line080.mp3",
+   "en": "Whether they choose him or not, he is glad he had the experience.",
+   "bytes": 41709
+  },
+  {
+   "line": 81,
+   "file": "day30-line081.mp3",
+   "en": "My week was all meetings. The big one was moved to Thursday because the manager was traveling.",
+   "bytes": 56109
+  },
+  {
+   "line": 82,
+   "file": "day30-line082.mp3",
+   "en": "During our last meeting, we discussed how we could reduce our costs next year.",
+   "bytes": 49389
+  },
+  {
+   "line": 83,
+   "file": "day30-line083.mp3",
+   "en": "If you cannot attend Thursday, please let us know at least one day in advance.",
+   "bytes": 52461
+  },
+  {
+   "line": 84,
+   "file": "day30-line084.mp3",
+   "en": "I will be there. By the time the meeting ended last time, everyone had agreed on the new plan.",
+   "bytes": 53805
+  },
+  {
+   "line": 85,
+   "file": "day30-line085.mp3",
+   "en": "It was decided that all future meetings would be held online, which saves us the commute.",
+   "bytes": 54189
+  },
+  {
+   "line": 86,
+   "file": "day30-line086.mp3",
+   "en": "So, any big dreams left on your list?",
+   "bytes": 31341
+  },
+  {
+   "line": 87,
+   "file": "day30-line087.mp3",
+   "en": "Ever since I was a child, I have dreamed of starting my own business.",
+   "bytes": 48045
+  },
+  {
+   "line": 88,
+   "file": "day30-line088.mp3",
+   "en": "Unless you try, you will never know how far you can go.",
+   "bytes": 40749
+  },
+  {
+   "line": 89,
+   "file": "day30-line089.mp3",
+   "en": "I am saving money so that I can study abroad next year, and then I will start.",
+   "bytes": 54189
+  },
+  {
+   "line": 90,
+   "file": "day30-line090.mp3",
+   "en": "My biggest dream is not to be rich, but to do work that helps people.",
+   "bytes": 53229
+  },
+  {
+   "line": 91,
+   "file": "day30-line091.mp3",
+   "en": "When we finally achieve our goals, we will look back and be proud of the journey.",
+   "bytes": 46509
+  },
+  {
+   "line": 92,
+   "file": "day30-line092.mp3",
+   "en": "Before we forget, what are the rules for the new co-working space you joined?",
+   "bytes": 39021
+  },
+  {
+   "line": 93,
+   "file": "day30-line093.mp3",
+   "en": "Members must wear their badges at all times while they are in the building.",
+   "bytes": 42285
+  },
+  {
+   "line": 94,
+   "file": "day30-line094.mp3",
+   "en": "Are guests allowed, or do they need a special permit?",
+   "bytes": 34605
+  },
+  {
+   "line": 95,
+   "file": "day30-line095.mp3",
+   "en": "Visitors are required to sign in at the reception desk before entering.",
+   "bytes": 43629
+  },
+  {
+   "line": 96,
+   "file": "day30-line096.mp3",
+   "en": "The rules were made to protect everyone, even if they sometimes feel strict.",
+   "bytes": 45549
+  },
+  {
+   "line": 97,
+   "file": "day30-line097.mp3",
+   "en": "True. So, what do you predict for next year?",
+   "bytes": 37485
+  },
+  {
+   "line": 98,
+   "file": "day30-line098.mp3",
+   "en": "It is likely that more people will work from home in the coming years.",
+   "bytes": 41709
+  },
+  {
+   "line": 99,
+   "file": "day30-line099.mp3",
+   "en": "I doubt that prices will go down any time soon, so I am trying to save more.",
+   "bytes": 50925
+  },
+  {
+   "line": 100,
+   "file": "day30-line100.mp3",
+   "en": "Nobody knows what the future will bring, but we can prepare for it.",
+   "bytes": 45165
+  },
+  {
+   "line": 101,
+   "file": "day30-line101.mp3",
+   "en": "I predict that online learning will become more common than traditional classrooms.",
+   "bytes": 48621
+  },
+  {
+   "line": 102,
+   "file": "day30-line102.mp3",
+   "en": "Whatever happens, the world will keep changing faster than we expect.",
+   "bytes": 41709
+  },
+  {
+   "line": 103,
+   "file": "day30-line103.mp3",
+   "en": "On a practical note, will you show me how to make that famous bread of yours?",
+   "bytes": 45165
+  },
+  {
+   "line": 104,
+   "file": "day30-line104.mp3",
+   "en": "Of course. First, you mix the flour with warm water, and then you let it rest.",
+   "bytes": 49005
+  },
+  {
+   "line": 105,
+   "file": "day30-line105.mp3",
+   "en": "Do I knead it before or after it rests?",
+   "bytes": 35181
+  },
+  {
+   "line": 106,
+   "file": "day30-line106.mp3",
+   "en": "After. Once the dough rises, it is divided into small balls and left again.",
+   "bytes": 52845
+  },
+  {
+   "line": 107,
+   "file": "day30-line107.mp3",
+   "en": "And I should not open the oven while it is baking, or the bread will sink, right?",
+   "bytes": 48429
+  },
+  {
+   "line": 108,
+   "file": "day30-line108.mp3",
+   "en": "Exactly. If you follow the steps in order, the whole process takes about an hour.",
+   "bytes": 47469
+  },
+  {
+   "line": 109,
+   "file": "day30-line109.mp3",
+   "en": "I am so sorry, I just realized I am late for a family lunch.",
+   "bytes": 42285
+  },
+  {
+   "line": 110,
+   "file": "day30-line110.mp3",
+   "en": "Do not worry. I would have reminded you, but I was enjoying the conversation too much.",
+   "bytes": 49965
+  },
+  {
+   "line": 111,
+   "file": "day30-line111.mp3",
+   "en": "I apologize for rushing off like this.",
+   "bytes": 24045
+  },
+  {
+   "line": 112,
+   "file": "day30-line112.mp3",
+   "en": "It is fine. I hope your family accepts my apology for keeping you so long.",
+   "bytes": 47469
+  },
+  {
+   "line": 113,
+   "file": "day30-line113.mp3",
+   "en": "They will. Next time I will leave earlier so that this does not happen again.",
+   "bytes": 44589
+  },
+  {
+   "line": 114,
+   "file": "day30-line114.mp3",
+   "en": "Before you go, do you agree that we should meet every month from now on?",
+   "bytes": 39981
+  },
+  {
+   "line": 115,
+   "file": "day30-line115.mp3",
+   "en": "I completely agree with you; that is exactly what I was thinking.",
+   "bytes": 40941
+  },
+  {
+   "line": 116,
+   "file": "day30-line116.mp3",
+   "en": "I could not agree more with your idea of taking turns choosing the place.",
+   "bytes": 44205
+  },
+  {
+   "line": 117,
+   "file": "day30-line117.mp3",
+   "en": "If anyone suggests otherwise, let us agree to disagree and keep our plan.",
+   "bytes": 48045
+  },
+  {
+   "line": 118,
+   "file": "day30-line118.mp3",
+   "en": "After all these years, our friendship turned out to be the best story of all.",
+   "bytes": 46125
+  },
+  {
+   "line": 119,
+   "file": "day30-line119.mp3",
+   "en": "It started a long time ago, when we were still students at university.",
+   "bytes": 45741
+  },
+  {
+   "line": 120,
+   "file": "day30-line120.mp3",
+   "en": "In the end, everything worked out better than we had expected.",
+   "bytes": 36909
+  },
+  {
+   "line": 121,
+   "file": "day30-line121.mp3",
+   "en": "Looking back at this level, I am surprised by how much my English has improved.",
+   "bytes": 51885
+  },
+  {
+   "line": 122,
+   "file": "day30-line122.mp3",
+   "en": "The more you practice speaking, the more confident you will become.",
+   "bytes": 35565
+  },
+  {
+   "line": 123,
+   "file": "day30-line123.mp3",
+   "en": "And that is how I learned never to give up, no matter how hard things get.",
+   "bytes": 44589
+  },
+  {
+   "line": 124,
+   "file": "day30-line124.mp3",
+   "en": "Take care, Sara. See you next month!",
+   "bytes": 22509
+  },
+  {
+   "line": 125,
+   "file": "day30-line125.mp3",
+   "en": "See you, Omar. It was wonderful talking to you, as always.",
+   "bytes": 34605
+  }
+ ]
+}
