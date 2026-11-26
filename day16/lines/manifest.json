@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 16,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day16-line001.mp3",
+   "sentence_id": "b1-day16-s01",
+   "en": "Artificial intelligence is already changing the way we work, and it will probably change it even more.",
+   "bytes": 62592
+  },
+  {
+   "line": 2,
+   "file": "day16-line002.mp3",
+   "sentence_id": "b1-day16-s02",
+   "en": "In the future, I think most people will work from home, because meetings can be held online.",
+   "bytes": 61440
+  },
+  {
+   "line": 3,
+   "file": "day16-line003.mp3",
+   "sentence_id": "b1-day16-s03",
+   "en": "Smartphones have made our lives easier, but they have also made it harder to disconnect from work.",
+   "bytes": 59712
+  },
+  {
+   "line": 4,
+   "file": "day16-line004.mp3",
+   "sentence_id": "b1-day16-s04",
+   "en": "Self-driving cars are being tested in several countries, although many people still do not trust them.",
+   "bytes": 58560
+  },
+  {
+   "line": 5,
+   "file": "day16-line005.mp3",
+   "sentence_id": "b1-day16-s05",
+   "en": "My grandfather could not believe that you can see someone's face while talking to them on the phone.",
+   "bytes": 57984
+  },
+  {
+   "line": 6,
+   "file": "day16-line006.mp3",
+   "sentence_id": "b1-day16-s06",
+   "en": "If robots do more of the boring jobs, people will have more time for creative and social activities.",
+   "bytes": 67584
+  },
+  {
+   "line": 7,
+   "file": "day16-line007.mp3",
+   "sentence_id": "b1-day16-s07",
+   "en": "It is important to protect your personal data, because companies collect far more information than you realize.",
+   "bytes": 61824
+  },
+  {
+   "line": 8,
+   "file": "day16-line008.mp3",
+   "sentence_id": "b1-day16-s08",
+   "en": "Online learning has opened doors for millions of people who could never afford to study abroad.",
+   "bytes": 57408
+  },
+  {
+   "line": 9,
+   "file": "day16-line009.mp3",
+   "sentence_id": "b1-day16-s09",
+   "en": "Technology is only a tool, and whether it helps or harms us depends on how we choose to use it.",
+   "bytes": 63744
+  },
+  {
+   "line": 10,
+   "file": "day16-line010.mp3",
+   "sentence_id": "b1-day16-s10",
+   "en": "By the time my children grow up, many of today's jobs will probably not exist anymore.",
+   "bytes": 56448
+  }
+ ]
+}
