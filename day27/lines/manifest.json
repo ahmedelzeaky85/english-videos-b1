@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 27,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day27-line001.mp3",
+   "sentence_id": "b1-day27-s01",
+   "en": "I completely agree with you; the new schedule is much better.",
+   "bytes": 39168
+  },
+  {
+   "line": 2,
+   "file": "day27-line002.mp3",
+   "sentence_id": "b1-day27-s02",
+   "en": "I see your point, but I am not sure that it would work in practice.",
+   "bytes": 41472
+  },
+  {
+   "line": 3,
+   "file": "day27-line003.mp3",
+   "sentence_id": "b1-day27-s03",
+   "en": "That is exactly what I was thinking; great minds think alike.",
+   "bytes": 36096
+  },
+  {
+   "line": 4,
+   "file": "day27-line004.mp3",
+   "sentence_id": "b1-day27-s04",
+   "en": "I am afraid I disagree, because the cost would be too high.",
+   "bytes": 40320
+  },
+  {
+   "line": 5,
+   "file": "day27-line005.mp3",
+   "sentence_id": "b1-day27-s05",
+   "en": "You might be right, but have you considered the other side of the argument?",
+   "bytes": 37632
+  },
+  {
+   "line": 6,
+   "file": "day27-line006.mp3",
+   "sentence_id": "b1-day27-s06",
+   "en": "We agreed that the meeting should be held every two weeks instead of every week.",
+   "bytes": 44736
+  },
+  {
+   "line": 7,
+   "file": "day27-line007.mp3",
+   "sentence_id": "b1-day27-s07",
+   "en": "I could not agree more; this is the best decision we have made all year.",
+   "bytes": 42816
+  },
+  {
+   "line": 8,
+   "file": "day27-line008.mp3",
+   "sentence_id": "b1-day27-s08",
+   "en": "Let us agree to disagree and find a solution that works for both of us.",
+   "bytes": 40896
+  },
+  {
+   "line": 9,
+   "file": "day27-line009.mp3",
+   "sentence_id": "b1-day27-s09",
+   "en": "Although I understand your reasons, I still believe the first plan was safer.",
+   "bytes": 41472
+  },
+  {
+   "line": 10,
+   "file": "day27-line010.mp3",
+   "sentence_id": "b1-day27-s10",
+   "en": "After a long discussion, they finally reached an agreement about the price.",
+   "bytes": 44736
+  }
+ ]
+}

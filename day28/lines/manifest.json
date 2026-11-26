@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 28,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day28-line001.mp3",
+   "sentence_id": "b1-day28-s01",
+   "en": "It happened a long time ago, when I was still a student at university.",
+   "bytes": 35328
+  },
+  {
+   "line": 2,
+   "file": "day28-line002.mp3",
+   "sentence_id": "b1-day28-s02",
+   "en": "Suddenly, we heard a strange noise coming from the kitchen.",
+   "bytes": 33024
+  },
+  {
+   "line": 3,
+   "file": "day28-line003.mp3",
+   "sentence_id": "b1-day28-s03",
+   "en": "While I was walking home, it started to rain heavily.",
+   "bytes": 32448
+  },
+  {
+   "line": 4,
+   "file": "day28-line004.mp3",
+   "sentence_id": "b1-day28-s04",
+   "en": "At first, nobody believed his story, but later it turned out to be true.",
+   "bytes": 52224
+  },
+  {
+   "line": 5,
+   "file": "day28-line005.mp3",
+   "sentence_id": "b1-day28-s05",
+   "en": "As soon as she opened the door, she knew that something was wrong.",
+   "bytes": 39936
+  },
+  {
+   "line": 6,
+   "file": "day28-line006.mp3",
+   "sentence_id": "b1-day28-s06",
+   "en": "We used to sit around my grandmother and listen to her amazing stories.",
+   "bytes": 44352
+  },
+  {
+   "line": 7,
+   "file": "day28-line007.mp3",
+   "sentence_id": "b1-day28-s07",
+   "en": "By the time we arrived, the show had already started.",
+   "bytes": 36480
+  },
+  {
+   "line": 8,
+   "file": "day28-line008.mp3",
+   "sentence_id": "b1-day28-s08",
+   "en": "In the end, everything worked out better than we had expected.",
+   "bytes": 35520
+  },
+  {
+   "line": 9,
+   "file": "day28-line009.mp3",
+   "sentence_id": "b1-day28-s09",
+   "en": "He told us that he had never been so frightened in his whole life.",
+   "bytes": 42048
+  },
+  {
+   "line": 10,
+   "file": "day28-line010.mp3",
+   "sentence_id": "b1-day28-s10",
+   "en": "And that is how I learned never to give up, no matter how hard things get.",
+   "bytes": 53568
+  }
+ ]
+}

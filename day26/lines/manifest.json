@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 26,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day26-line001.mp3",
+   "sentence_id": "b1-day26-s01",
+   "en": "I am so sorry I am late; the traffic was much worse than usual.",
+   "bytes": 43008
+  },
+  {
+   "line": 2,
+   "file": "day26-line002.mp3",
+   "sentence_id": "b1-day26-s02",
+   "en": "Please forgive me for forgetting your birthday; it will not happen again.",
+   "bytes": 43968
+  },
+  {
+   "line": 3,
+   "file": "day26-line003.mp3",
+   "sentence_id": "b1-day26-s03",
+   "en": "I would have called you, but my phone had died on the way home.",
+   "bytes": 33024
+  },
+  {
+   "line": 4,
+   "file": "day26-line004.mp3",
+   "sentence_id": "b1-day26-s04",
+   "en": "Sorry to bother you, but could you help me carry this box?",
+   "bytes": 34368
+  },
+  {
+   "line": 5,
+   "file": "day26-line005.mp3",
+   "sentence_id": "b1-day26-s05",
+   "en": "I apologize for the mistake in the report; I have already corrected it.",
+   "bytes": 37440
+  },
+  {
+   "line": 6,
+   "file": "day26-line006.mp3",
+   "sentence_id": "b1-day26-s06",
+   "en": "He did not come to the meeting because he had to take his mother to the doctor.",
+   "bytes": 43008
+  },
+  {
+   "line": 7,
+   "file": "day26-line007.mp3",
+   "sentence_id": "b1-day26-s07",
+   "en": "It was my fault, and I take full responsibility for what happened.",
+   "bytes": 36288
+  },
+  {
+   "line": 8,
+   "file": "day26-line008.mp3",
+   "sentence_id": "b1-day26-s08",
+   "en": "She apologized for not answering earlier, saying she had been in meetings all day.",
+   "bytes": 55488
+  },
+  {
+   "line": 9,
+   "file": "day26-line009.mp3",
+   "sentence_id": "b1-day26-s09",
+   "en": "I hope you can accept my apology; I never meant to upset you.",
+   "bytes": 32448
+  },
+  {
+   "line": 10,
+   "file": "day26-line010.mp3",
+   "sentence_id": "b1-day26-s10",
+   "en": "Next time I will leave home earlier so that this does not happen again.",
+   "bytes": 38784
+  }
+ ]
+}
