@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 23,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day23-line001.mp3",
+   "sentence_id": "b1-day23-s01",
+   "en": "Scientists believe that the climate will become even warmer in the next fifty years.",
+   "bytes": 45504
+  },
+  {
+   "line": 2,
+   "file": "day23-line002.mp3",
+   "sentence_id": "b1-day23-s02",
+   "en": "I doubt that prices will go down any time soon, so I am trying to save more.",
+   "bytes": 53760
+  },
+  {
+   "line": 3,
+   "file": "day23-line003.mp3",
+   "sentence_id": "b1-day23-s03",
+   "en": "It is likely that more people will work from home in the coming years.",
+   "bytes": 43008
+  },
+  {
+   "line": 4,
+   "file": "day23-line004.mp3",
+   "sentence_id": "b1-day23-s04",
+   "en": "By 2050, many of today's jobs will probably be done by machines.",
+   "bytes": 45312
+  },
+  {
+   "line": 5,
+   "file": "day23-line005.mp3",
+   "sentence_id": "b1-day23-s05",
+   "en": "I am sure she will pass the exam, because she has been studying for months.",
+   "bytes": 43968
+  },
+  {
+   "line": 6,
+   "file": "day23-line006.mp3",
+   "sentence_id": "b1-day23-s06",
+   "en": "In ten years, electric cars will probably be cheaper than petrol cars.",
+   "bytes": 43584
+  },
+  {
+   "line": 7,
+   "file": "day23-line007.mp3",
+   "sentence_id": "b1-day23-s07",
+   "en": "Nobody knows what the future will bring, but we can prepare for it.",
+   "bytes": 35712
+  },
+  {
+   "line": 8,
+   "file": "day23-line008.mp3",
+   "sentence_id": "b1-day23-s08",
+   "en": "He will probably be late, as usual, so let's start without him.",
+   "bytes": 47424
+  },
+  {
+   "line": 9,
+   "file": "day23-line009.mp3",
+   "sentence_id": "b1-day23-s09",
+   "en": "I predict that online learning will become more common than traditional classrooms.",
+   "bytes": 43776
+  },
+  {
+   "line": 10,
+   "file": "day23-line010.mp3",
+   "sentence_id": "b1-day23-s10",
+   "en": "Whatever happens, the world will keep changing faster than we expect.",
+   "bytes": 40512
+  }
+ ]
+}
