@@ -1,0 +1,218 @@
+{
+ "level": "B1",
+ "day": 12,
+ "count": 30,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day12-line001.mp3",
+   "speaker": "Sara",
+   "en": "Hi Omar! I have not seen you since the exam. How did it go?",
+   "bytes": 39405
+  },
+  {
+   "line": 2,
+   "file": "day12-line002.mp3",
+   "speaker": "Omar",
+   "en": "She passed the exam because she studied a little every day instead of waiting until the last week.",
+   "bytes": 61485
+  },
+  {
+   "line": 3,
+   "file": "day12-line003.mp3",
+   "speaker": "Omar",
+   "en": "Sorry, I mean I passed. I studied a little every day this time.",
+   "bytes": 44589
+  },
+  {
+   "line": 4,
+   "file": "day12-line004.mp3",
+   "speaker": "Sara",
+   "en": "Learning a new language takes time, but it becomes easier once you start using it every day.",
+   "bytes": 58221
+  },
+  {
+   "line": 5,
+   "file": "day12-line005.mp3",
+   "speaker": "Omar",
+   "en": "In my opinion, practical skills are just as important as a university degree when you look for a job.",
+   "bytes": 63981
+  },
+  {
+   "line": 6,
+   "file": "day12-line006.mp3",
+   "speaker": "Sara",
+   "en": "I agree. By the way, I saw your post yesterday. Do you spend a lot of time online?",
+   "bytes": 56685
+  },
+  {
+   "line": 7,
+   "file": "day12-line007.mp3",
+   "speaker": "Omar",
+   "en": "He deleted the app after he noticed that he was spending four hours a day scrolling.",
+   "bytes": 53229
+  },
+  {
+   "line": 8,
+   "file": "day12-line008.mp3",
+   "speaker": "Omar",
+   "en": "That was me, actually. I deleted it last month.",
+   "bytes": 30381
+  },
+  {
+   "line": 9,
+   "file": "day12-line009.mp3",
+   "speaker": "Sara",
+   "en": "It is difficult to know whether a story online is true, so you should always check the source.",
+   "bytes": 56109
+  },
+  {
+   "line": 10,
+   "file": "day12-line010.mp3",
+   "speaker": "Omar",
+   "en": "Parents should talk to their children about the risks of the internet instead of simply banning it.",
+   "bytes": 47661
+  },
+  {
+   "line": 11,
+   "file": "day12-line011.mp3",
+   "speaker": "Sara",
+   "en": "You are right. Let's talk about something different. Do you recycle at home?",
+   "bytes": 40749
+  },
+  {
+   "line": 12,
+   "file": "day12-line012.mp3",
+   "speaker": "Omar",
+   "en": "I try to use public transport whenever I can, because it is better for the environment and cheaper than driving.",
+   "bytes": 64941
+  },
+  {
+   "line": 13,
+   "file": "day12-line013.mp3",
+   "speaker": "Sara",
+   "en": "She turns off the lights and unplugs her devices to save energy and lower her electricity bill.",
+   "bytes": 60141
+  },
+  {
+   "line": 14,
+   "file": "day12-line014.mp3",
+   "speaker": "Omar",
+   "en": "Small changes in our daily habits may not seem important, but together they can make a real difference.",
+   "bytes": 70509
+  },
+  {
+   "line": 15,
+   "file": "day12-line015.mp3",
+   "speaker": "Sara",
+   "en": "In my family, we always gather on Fridays for a big lunch, and everyone brings a different dish.",
+   "bytes": 63405
+  },
+  {
+   "line": 16,
+   "file": "day12-line016.mp3",
+   "speaker": "Omar",
+   "en": "That sounds lovely. Do you have any special traditions?",
+   "bytes": 37485
+  },
+  {
+   "line": 17,
+   "file": "day12-line017.mp3",
+   "speaker": "Sara",
+   "en": "During Ramadan, the streets are decorated with lanterns, and families invite each other to break the fast.",
+   "bytes": 69549
+  },
+  {
+   "line": 18,
+   "file": "day12-line018.mp3",
+   "speaker": "Omar",
+   "en": "Traditions give us a sense of belonging, especially when we are far away from home.",
+   "bytes": 53421
+  },
+  {
+   "line": 19,
+   "file": "day12-line019.mp3",
+   "speaker": "Sara",
+   "en": "It is polite to bring a small gift when you are invited to someone's house, although it is not required.",
+   "bytes": 58989
+  },
+  {
+   "line": 20,
+   "file": "day12-line020.mp3",
+   "speaker": "Omar",
+   "en": "Speaking of gifts, I need to buy one for my mother. Any ideas?",
+   "bytes": 38829
+  },
+  {
+   "line": 21,
+   "file": "day12-line021.mp3",
+   "speaker": "Sara",
+   "en": "Try the new shop downtown. I bought this jacket last week, but the zip broke the first time I wore it.",
+   "bytes": 59565
+  },
+  {
+   "line": 22,
+   "file": "day12-line022.mp3",
+   "speaker": "Omar",
+   "en": "Oh no! Did you complain?",
+   "bytes": 24429
+  },
+  {
+   "line": 23,
+   "file": "day12-line023.mp3",
+   "speaker": "Sara",
+   "en": "Could I speak to the manager, please? I would like to return this item and get my money back.",
+   "bytes": 54381
+  },
+  {
+   "line": 24,
+   "file": "day12-line024.mp3",
+   "speaker": "Sara",
+   "en": "She complained politely, and the company offered her a replacement as well as a small discount.",
+   "bytes": 57261
+  },
+  {
+   "line": 25,
+   "file": "day12-line025.mp3",
+   "speaker": "Omar",
+   "en": "I usually compare prices online before I buy anything expensive, because it can save me a lot of money.",
+   "bytes": 65901
+  },
+  {
+   "line": 26,
+   "file": "day12-line026.mp3",
+   "speaker": "Sara",
+   "en": "Before you pay, check whether the price includes delivery, because some websites add it at the end.",
+   "bytes": 53805
+  },
+  {
+   "line": 27,
+   "file": "day12-line027.mp3",
+   "speaker": "Omar",
+   "en": "It is not always worth paying more for a famous brand, since cheaper products are often just as good.",
+   "bytes": 66669
+  },
+  {
+   "line": 28,
+   "file": "day12-line028.mp3",
+   "speaker": "Sara",
+   "en": "Exactly. Let's go together on Saturday.",
+   "bytes": 27885
+  },
+  {
+   "line": 29,
+   "file": "day12-line029.mp3",
+   "speaker": "Omar",
+   "en": "Great idea. I will bring the receipt, just in case!",
+   "bytes": 35181
+  },
+  {
+   "line": 30,
+   "file": "day12-line030.mp3",
+   "speaker": "Sara",
+   "en": "Take care, Omar. See you on Saturday!",
+   "bytes": 24045
+  }
+ ]
+}
