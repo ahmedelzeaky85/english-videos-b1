@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 11,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day11-line001.mp3",
+   "sentence_id": "b1-day11-s01",
+   "en": "I bought this jacket last week, but the zip broke the first time I wore it.",
+   "bytes": 52032
+  },
+  {
+   "line": 2,
+   "file": "day11-line002.mp3",
+   "sentence_id": "b1-day11-s02",
+   "en": "Could I speak to the manager, please? I would like to return this item and get my money back.",
+   "bytes": 51840
+  },
+  {
+   "line": 3,
+   "file": "day11-line003.mp3",
+   "sentence_id": "b1-day11-s03",
+   "en": "The shop assistant told me that I needed the receipt, which I had unfortunately left at home.",
+   "bytes": 53952
+  },
+  {
+   "line": 4,
+   "file": "day11-line004.mp3",
+   "sentence_id": "b1-day11-s04",
+   "en": "I usually compare prices online before I buy anything expensive, because it can save me a lot of money.",
+   "bytes": 66432
+  },
+  {
+   "line": 5,
+   "file": "day11-line005.mp3",
+   "sentence_id": "b1-day11-s05",
+   "en": "Although the sale looked attractive, most of the items were only a little cheaper than usual.",
+   "bytes": 54144
+  },
+  {
+   "line": 6,
+   "file": "day11-line006.mp3",
+   "sentence_id": "b1-day11-s06",
+   "en": "The delivery was supposed to arrive on Monday, but I am still waiting for it on Friday.",
+   "bytes": 52608
+  },
+  {
+   "line": 7,
+   "file": "day11-line007.mp3",
+   "sentence_id": "b1-day11-s07",
+   "en": "I would have bought the larger size if they had had it in stock.",
+   "bytes": 43584
+  },
+  {
+   "line": 8,
+   "file": "day11-line008.mp3",
+   "sentence_id": "b1-day11-s08",
+   "en": "She complained politely, and the company offered her a replacement as well as a small discount.",
+   "bytes": 57408
+  },
+  {
+   "line": 9,
+   "file": "day11-line009.mp3",
+   "sentence_id": "b1-day11-s09",
+   "en": "Before you pay, check whether the price includes delivery, because some websites add it at the end.",
+   "bytes": 60096
+  },
+  {
+   "line": 10,
+   "file": "day11-line010.mp3",
+   "sentence_id": "b1-day11-s10",
+   "en": "It is not always worth paying more for a famous brand, since cheaper products are often just as good.",
+   "bytes": 63168
+  }
+ ]
+}
