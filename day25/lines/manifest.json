@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 25,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day25-line001.mp3",
+   "sentence_id": "b1-day25-s01",
+   "en": "First, you heat the oil in a pan, and then you add the onions.",
+   "bytes": 47424
+  },
+  {
+   "line": 2,
+   "file": "day25-line002.mp3",
+   "sentence_id": "b1-day25-s02",
+   "en": "Before you start, make sure that all the ingredients are prepared.",
+   "bytes": 35712
+  },
+  {
+   "line": 3,
+   "file": "day25-line003.mp3",
+   "sentence_id": "b1-day25-s03",
+   "en": "The mixture is stirred slowly until it becomes thick.",
+   "bytes": 34176
+  },
+  {
+   "line": 4,
+   "file": "day25-line004.mp3",
+   "sentence_id": "b1-day25-s04",
+   "en": "Once the water boils, the rice is added and left for twenty minutes.",
+   "bytes": 41280
+  },
+  {
+   "line": 5,
+   "file": "day25-line005.mp3",
+   "sentence_id": "b1-day25-s05",
+   "en": "After the form is filled in, it has to be signed at the bottom.",
+   "bytes": 37248
+  },
+  {
+   "line": 6,
+   "file": "day25-line006.mp3",
+   "sentence_id": "b1-day25-s06",
+   "en": "The next step is to connect the printer to the Wi-Fi network.",
+   "bytes": 31872
+  },
+  {
+   "line": 7,
+   "file": "day25-line007.mp3",
+   "sentence_id": "b1-day25-s07",
+   "en": "Do not open the oven while the cake is baking, or it will sink.",
+   "bytes": 38400
+  },
+  {
+   "line": 8,
+   "file": "day25-line008.mp3",
+   "sentence_id": "b1-day25-s08",
+   "en": "Finally, the room is painted a second time to cover the old color.",
+   "bytes": 45312
+  },
+  {
+   "line": 9,
+   "file": "day25-line009.mp3",
+   "sentence_id": "b1-day25-s09",
+   "en": "If you follow the steps in order, the whole process takes about an hour.",
+   "bytes": 41280
+  },
+  {
+   "line": 10,
+   "file": "day25-line010.mp3",
+   "sentence_id": "b1-day25-s10",
+   "en": "The machine should be cleaned every week so that it keeps working well.",
+   "bytes": 40896
+  }
+ ]
+}
