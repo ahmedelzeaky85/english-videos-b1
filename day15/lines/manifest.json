@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 15,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day15-line001.mp3",
+   "sentence_id": "b1-day15-s01",
+   "en": "This phone is more expensive than the other one, but its camera is much better and the battery lasts longer.",
+   "bytes": 61824
+  },
+  {
+   "line": 2,
+   "file": "day15-line002.mp3",
+   "sentence_id": "b1-day15-s02",
+   "en": "Living in a small town is not as exciting as living in a big city, but it is certainly quieter.",
+   "bytes": 66240
+  },
+  {
+   "line": 3,
+   "file": "day15-line003.mp3",
+   "sentence_id": "b1-day15-s03",
+   "en": "Of all the places we visited, Luxor was the one that impressed me the most.",
+   "bytes": 52032
+  },
+  {
+   "line": 4,
+   "file": "day15-line004.mp3",
+   "sentence_id": "b1-day15-s04",
+   "en": "I can't decide between the two apartments, since one is cheaper while the other is closer to work.",
+   "bytes": 58368
+  },
+  {
+   "line": 5,
+   "file": "day15-line005.mp3",
+   "sentence_id": "b1-day15-s05",
+   "en": "Studying at home is more comfortable, but studying in the library helps me concentrate better.",
+   "bytes": 56640
+  },
+  {
+   "line": 6,
+   "file": "day15-line006.mp3",
+   "sentence_id": "b1-day15-s06",
+   "en": "Neither of the two candidates seemed perfect for the job, so the company decided to keep looking.",
+   "bytes": 57984
+  },
+  {
+   "line": 7,
+   "file": "day15-line007.mp3",
+   "sentence_id": "b1-day15-s07",
+   "en": "The more I think about it, the more I believe that the second option is the safer choice.",
+   "bytes": 50112
+  },
+  {
+   "line": 8,
+   "file": "day15-line008.mp3",
+   "sentence_id": "b1-day15-s08",
+   "en": "My brother is just as tall as my father now, although he used to be the shortest in the family.",
+   "bytes": 60288
+  },
+  {
+   "line": 9,
+   "file": "day15-line009.mp3",
+   "sentence_id": "b1-day15-s09",
+   "en": "Compared with last year, this summer has been much hotter, and the electricity bills are higher too.",
+   "bytes": 60480
+  },
+  {
+   "line": 10,
+   "file": "day15-line010.mp3",
+   "sentence_id": "b1-day15-s10",
+   "en": "When you have too many options, it is better to write down the advantages and disadvantages of each one.",
+   "bytes": 67008
+  }
+ ]
+}
