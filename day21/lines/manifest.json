@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 21,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day21-line001.mp3",
+   "sentence_id": "b1-day21-s01",
+   "en": "Ever since I was a child, I have dreamed of starting my own business.",
+   "bytes": 42624
+  },
+  {
+   "line": 2,
+   "file": "day21-line002.mp3",
+   "sentence_id": "b1-day21-s02",
+   "en": "Her ambition is to become a doctor, so she studies harder than anyone I know.",
+   "bytes": 42432
+  },
+  {
+   "line": 3,
+   "file": "day21-line003.mp3",
+   "sentence_id": "b1-day21-s03",
+   "en": "If I could live anywhere in the world, I would choose a quiet place near the sea.",
+   "bytes": 46656
+  },
+  {
+   "line": 4,
+   "file": "day21-line004.mp3",
+   "sentence_id": "b1-day21-s04",
+   "en": "He hopes to run a marathon before he turns forty, although he has never been a fast runner.",
+   "bytes": 56448
+  },
+  {
+   "line": 5,
+   "file": "day21-line005.mp3",
+   "sentence_id": "b1-day21-s05",
+   "en": "Achieving your dreams takes more than talent; it takes patience and daily effort.",
+   "bytes": 50304
+  },
+  {
+   "line": 6,
+   "file": "day21-line006.mp3",
+   "sentence_id": "b1-day21-s06",
+   "en": "I would love to write a book one day, even if nobody reads it.",
+   "bytes": 41472
+  },
+  {
+   "line": 7,
+   "file": "day21-line007.mp3",
+   "sentence_id": "b1-day21-s07",
+   "en": "She is saving money so that she can study abroad next year.",
+   "bytes": 37824
+  },
+  {
+   "line": 8,
+   "file": "day21-line008.mp3",
+   "sentence_id": "b1-day21-s08",
+   "en": "My biggest dream is not to be rich, but to do work that helps people.",
+   "bytes": 47424
+  },
+  {
+   "line": 9,
+   "file": "day21-line009.mp3",
+   "sentence_id": "b1-day21-s09",
+   "en": "Unless you try, you will never know how far you can go.",
+   "bytes": 32064
+  },
+  {
+   "line": 10,
+   "file": "day21-line010.mp3",
+   "sentence_id": "b1-day21-s10",
+   "en": "When I finally achieve this goal, I will look back and be proud of the journey.",
+   "bytes": 47616
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 22,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day22-line001.mp3",
+   "sentence_id": "b1-day22-s01",
+   "en": "You are not allowed to park here unless you have a special permit.",
+   "bytes": 37824
+  },
+  {
+   "line": 2,
+   "file": "day22-line002.mp3",
+   "sentence_id": "b1-day22-s02",
+   "en": "Employees must wear their badges at all times while they are in the building.",
+   "bytes": 38592
+  },
+  {
+   "line": 3,
+   "file": "day22-line003.mp3",
+   "sentence_id": "b1-day22-s03",
+   "en": "You do not have to come to the office on Fridays; working from home is allowed.",
+   "bytes": 42240
+  },
+  {
+   "line": 4,
+   "file": "day22-line004.mp3",
+   "sentence_id": "b1-day22-s04",
+   "en": "Smoking is forbidden in all public places in the city center.",
+   "bytes": 48192
+  },
+  {
+   "line": 5,
+   "file": "day22-line005.mp3",
+   "sentence_id": "b1-day22-s05",
+   "en": "Are we supposed to finish the report today, or can we hand it in tomorrow?",
+   "bytes": 37824
+  },
+  {
+   "line": 6,
+   "file": "day22-line006.mp3",
+   "sentence_id": "b1-day22-s06",
+   "en": "Visitors are required to sign in at the reception desk before entering.",
+   "bytes": 42048
+  },
+  {
+   "line": 7,
+   "file": "day22-line007.mp3",
+   "sentence_id": "b1-day22-s07",
+   "en": "You had better not use your phone during the exam, or you will be disqualified.",
+   "bytes": 47040
+  },
+  {
+   "line": 8,
+   "file": "day22-line008.mp3",
+   "sentence_id": "b1-day22-s08",
+   "en": "Children under twelve are not permitted to enter without an adult.",
+   "bytes": 35136
+  },
+  {
+   "line": 9,
+   "file": "day22-line009.mp3",
+   "sentence_id": "b1-day22-s09",
+   "en": "We were not allowed to take photos inside the museum, so we bought postcards instead.",
+   "bytes": 52800
+  },
+  {
+   "line": 10,
+   "file": "day22-line010.mp3",
+   "sentence_id": "b1-day22-s10",
+   "en": "The rules were made to protect everyone, even if they sometimes feel strict.",
+   "bytes": 46848
+  }
+ ]
+}

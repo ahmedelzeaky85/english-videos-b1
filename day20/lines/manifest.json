@@ -1,0 +1,78 @@
+{
+ "level": "b1",
+ "day": 20,
+ "count": 10,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day20-line001.mp3",
+   "sentence_id": "b1-day20-s01",
+   "en": "The meeting has been moved to Thursday because the manager is traveling.",
+   "bytes": 34752
+  },
+  {
+   "line": 2,
+   "file": "day20-line002.mp3",
+   "sentence_id": "b1-day20-s02",
+   "en": "Could you please send me the report before the end of the day?",
+   "bytes": 27072
+  },
+  {
+   "line": 3,
+   "file": "day20-line003.mp3",
+   "sentence_id": "b1-day20-s03",
+   "en": "I am writing to confirm that we have received your application.",
+   "bytes": 34560
+  },
+  {
+   "line": 4,
+   "file": "day20-line004.mp3",
+   "sentence_id": "b1-day20-s04",
+   "en": "During the meeting, we discussed how we could reduce our costs next year.",
+   "bytes": 37248
+  },
+  {
+   "line": 5,
+   "file": "day20-line005.mp3",
+   "sentence_id": "b1-day20-s05",
+   "en": "If you cannot attend, please let us know at least one day in advance.",
+   "bytes": 35712
+  },
+  {
+   "line": 6,
+   "file": "day20-line006.mp3",
+   "sentence_id": "b1-day20-s06",
+   "en": "The email was so long that nobody read it to the end.",
+   "bytes": 37440
+  },
+  {
+   "line": 7,
+   "file": "day20-line007.mp3",
+   "sentence_id": "b1-day20-s07",
+   "en": "We have been trying to solve this problem for weeks, and we are getting closer.",
+   "bytes": 49536
+  },
+  {
+   "line": 8,
+   "file": "day20-line008.mp3",
+   "sentence_id": "b1-day20-s08",
+   "en": "It was decided that all future meetings would be held online.",
+   "bytes": 36480
+  },
+  {
+   "line": 9,
+   "file": "day20-line009.mp3",
+   "sentence_id": "b1-day20-s09",
+   "en": "Please find the file attached, and do not hesitate to contact me if you have questions.",
+   "bytes": 50880
+  },
+  {
+   "line": 10,
+   "file": "day20-line010.mp3",
+   "sentence_id": "b1-day20-s10",
+   "en": "By the time the meeting ended, everyone had agreed on the new plan.",
+   "bytes": 36480
+  }
+ ]
+}
